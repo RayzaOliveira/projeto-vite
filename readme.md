@@ -25,15 +25,18 @@ Vite (French word for "fast", pronounced `/vit/`) is a new breed of frontend bui
 
 <br/>
 
-<!-- ##  💡 Vitejs 🆚 Create-react-app -->
+##  💡 Article on Medium
 
-<h2 align="center">
 
-`Vitejs 🆚 Create-react-app`
 
-</h2>
+<p align="center">
+  <a href="https://rayza-ocr.medium.com/" target="_blank" rel="noopener noreferrer">
+    <img width="100%" src="https://firebasestorage.googleapis.com/v0/b/resume-7d906.appspot.com/o/%60vite%20artigo.png?alt=media&token=bb6fca83-4985-4f32-8316-54f4bdbb193e" alt="Vite logo">
+  </a>
 
-I wrote an article telling a little about my experience with this new tool.  <a href="https://github.com/vitejs/vite/blob/main/README.md"> more...</a>
+
+
+I wrote an article telling a little about my experience with this tool.  <a href="https://rayza-ocr.medium.com/vitejs-create-react-app-7c21672c3fa3"> more...</a>
 
 <br/>
 
@@ -51,12 +54,17 @@ $ git clone https://github.com/RayzaOliveira/projeto-vite.git
 
 ``` sh
 # Access the project directory
+
 $ cd projeto-vite
+
 # Install the dependencies
+
 $ yarn
 # or
 $ npm i
+
 # Launch the web application
+
 $ yarn dev
 # or
 $ npm run dev

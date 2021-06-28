@@ -13,8 +13,8 @@
     <img alt="Feito por Rayza" src="https://img.shields.io/badge/Feito%20por-Rayza%20Oliveira-orange">
   </a>
   <img alt="License" src="https://img.shields.io/badge/licence-MIT-blueviolet">
-  <a href="https://github.com/RayzaOliveira/storybook">
-    <img alt="Readme em Português" src="https://github.com/RayzaOliveira/projeto-vite">
+  <a href="https://github.com/RayzaOliveira/projeto-vite">
+    <img alt="Readme em Português" src="https://img.shields.io/badge/Readme-English-blue">
   </a>
 </p>
 <br/>
